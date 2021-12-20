@@ -13,7 +13,7 @@ app.get("/", (req, res) => {
 	// const sqlInsert =
 	// 	"INSERT INTO users (firstName, lastName, email, zipcode, state) VALUES ('Jeremy', 'Sallin', 'jeremy@gmail.com', '90210', 'CA');";
 	// db.query(sqlInsert, (err, result) => {
-	// 	res.send("hello pedro");
+	// 	res.send("hello world");
 	// });
 });
 
